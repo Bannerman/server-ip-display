@@ -4,7 +4,7 @@ Plugin Name: Server IP Display
 Plugin URI: https://plexkits.com/server-ip-display
 Description: Displays the server IP address in the WP admin bar.
 Version: 1.0
-Author: Rick BAnnerman
+Author: Rick Bannerman
 Author URI: https://socialgorillas.com
 License: MIT
 License URI: https://opensource.org/licenses/MIT
