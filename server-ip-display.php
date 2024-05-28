@@ -24,7 +24,7 @@ function add_server_ip_to_admin_bar($wp_admin_bar) {
     // Add new node in admin bar
     $wp_admin_bar->add_node(array(
         'id'    => 'server_ip',
-        'title' => 'Server IP: ' . $server_ip,
+        'title' => 'IP - ' . $server_ip,
         'meta'  => array('class' => 'server-ip'),
     ));
 }
