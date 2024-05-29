@@ -3,10 +3,10 @@ Contributors: Rick Bannerman
 Donate link: https://plexkits.com/server-ip-display
 Tags: admin bar, server IP
 Requires at least: 5.0
-Tested up to: 5.7
-Stable tag: 1.0
-License: MIT
-License URI: https://opensource.org/licenses/MIT
+Tested up to: 6.5.3
+Stable tag: 1.1.2
+License: GPLv2
+License URI: https://opensource.org/license/lgpl-2-0
 
 == Description ==
 Displays the server IP address in the WP admin bar.
@@ -24,5 +24,5 @@ Displays the server IP address in the WP admin bar.
 * Initial release.
 
 == Upgrade Notice ==
-= 1.0 =
-Initial release.
+= 1.1.2 =
+Prep for WordPress Plugin store 
