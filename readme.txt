@@ -8,6 +8,8 @@ Stable tag: 1.1.2
 License: GPLV2
 License URI: https://opensource.org/license/lgpl-2-0
 
+A simple WordPress plugin to show the IP of the current server on the WP Admin bar. Useful when migrating servers.
+
 == Description ==
 A simple WordPress plugin to show the IP of the current server on the WP Admin bar. Useful when migrating servers.
 
@@ -20,7 +22,8 @@ A simple WordPress plugin to show the IP of the current server on the WP Admin b
 * Initial release.
 
 = 1.1.2 =
-Prep for WordPress Plugin store. 
+Preped for WordPress Plugin store. 
+
 
 == Upgrade Notice ==
 = 1.1.2 =
