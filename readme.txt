@@ -3,8 +3,8 @@ Contributors: rbannerm
 Donate link: https://plexkits.com/server-ip-display
 Tags: admin bar, server IP
 Requires at least: 5.0
-Tested up to: 6.6.2
-Stable tag: 1.1.7
+Tested up to: 6.7.2
+Stable tag: 1.1.8
 License: GPLV2
 License URI: https://opensource.org/license/lgpl-2-0
 
